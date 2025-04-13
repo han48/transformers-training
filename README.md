@@ -1,3 +1,12 @@
+# Training sample
+
+## Computer vision:
+- Object detection: https://github.com/han48/yolo-candy-detection
+
+## Natural Language Processing
+- Text classification: train-classification.py
+- Token classification: train-ner.py
+
 # Training arguments 
 
 ## output_dir
