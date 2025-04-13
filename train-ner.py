@@ -1,4 +1,4 @@
-!pip install datasets transformers evaluate seqeval torch pandas pyarrow
+# pip install datasets transformers evaluate seqeval torch pandas pyarrow
 
 import json
 
