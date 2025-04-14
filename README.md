@@ -6,6 +6,7 @@
 ## Natural Language Processing
 - Text classification: train-classification.py
 - Token classification: train-ner.py
+- Seq2Seq: https://colab.research.google.com/drive/1IHWE84kKJSaBUFj9b1cmLvmuF-Jo3V1s?usp=sharing
 
 # Training arguments 
 
