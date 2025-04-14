@@ -8,6 +8,9 @@
 - Token classification: train-ner.py
 - Seq2Seq: https://colab.research.google.com/drive/1IHWE84kKJSaBUFj9b1cmLvmuF-Jo3V1s?usp=sharing
 
+## Chatbot
+- Chatterbot: https://github.com/han48/chatterbot-flask/
+
 # Training arguments 
 
 ## output_dir
